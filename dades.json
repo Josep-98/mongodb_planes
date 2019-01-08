@@ -1,0 +1,87 @@
+{
+  "brand" : "Airbus",
+  "commercial" : true,
+  "model" : "A320",
+  "propulsion" : "turbofan",
+  "cargo" : 2000,
+  "seats": 220,
+  "airline" : "Aer Lingus",
+  "routes": [{"origin" : "BCN", "destination" : "DUB"}, {"origin" : "DUB", "destination" : "BCN"}]
+}
+{
+  "brand" : "Airbus",
+  "commercial" : true,
+  "model" : "A330",
+  "propulsion" : "turbofan",
+  "cargo" : 2500,
+  "seats": 350,
+  "airline" : "Aer Lingus",
+  "routes": [{"origin" : "DUB", "destination" : "MCO"}, {"origin" : "MCO", "destination" : "DUB"}]
+}
+{
+  "brand" : "Boeing",
+  "commercial" : true,
+  "model" : "737",
+  "propulsion" : "turbofan",
+  "cargo" : 2200,
+  "seats": 200,
+  "airline" : "American Airlines",
+  "routes": [{"origin" : "MCO", "destination" : "MIA"}, {"origin" : "MIA", "destination" : "MCO"}]
+}
+{
+  "brand" : "Boeing",
+  "commercial" : true,
+  "model" : "767",
+  "propulsion" : "turbofan",
+  "cargo" : 3000,
+  "seats": 370,
+  "airline" : "American Airlines",
+  "routes": [{"origin" : "MIA", "destination" : "BCN"}, {"origin" : "BCN", "destination" : "MIA"}]
+}
+{
+  "brand" : "Airbus",
+  "commercial" : true,
+  "model" : "380",
+  "propulsion" : "turbofan",
+  "cargo" : 4000,
+  "seats": 650,
+  "airline" : "Emirates Fly",
+  "routes": [{"origin" : "BCN", "destination" : "DXB"}, {"origin" : "DBX", "destination" : "BCN"}]
+}
+{
+  "brand" : "Boeing",
+  "commercial" : true,
+  "model" : "787",
+  "propulsion" : "turbofan",
+  "cargo" : 2700,
+  "seats": 300,
+  "airline" : "Qatar Airways",
+  "routes": [{"origin" : "BCN", "destination" : "DXB"}, {"origin" : "DXB", "destination" : "BCN"}]
+}
+{
+  "brand" : "Boeing",
+  "commercial" : false,
+  "model" : "F-18",
+  "propulsion" : "turbojet",
+  "cargo" : 200,
+  "seats" : 2,
+  "country" : "US"
+}
+{
+  "brand" : "Lockheed Martin",
+  "commercial" : false,
+  "model" : "C-130",
+  "propulsion" : "fan",
+  "cargo" : 6000,
+  "seats" : 40,
+  "country" : "US"
+}
+{
+  "brand" : "Sukhoi",
+  "commercial" : false,
+  "model" : "Su-27",
+  "propulsion" : "turbojet",
+  "cargo" : 200,
+  "seats" : 1,
+  "country" : "CH"
+}
